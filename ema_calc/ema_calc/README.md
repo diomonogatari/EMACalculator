@@ -1,4 +1,4 @@
-# EMACalculator
+# ema_calc
 
 Calculate age eastern mongolian style
 
